@@ -33,9 +33,3 @@ Past NCIC and UWiano Platform reports (for validation)
 
 Trained and versioned machine learning model (Random Forest /)
 
-7. Skills Needed
-
-Data cleaning and geospatial analysis (Python/Pandas/Geopandas)
-Machine learning (classification, imbalance handling, SHAP/LIME interpretability)
-Basic frontend for dashboard (Streamlit or Dash)
-Domain knowledge of Kenyan politics and conflict (desirable but not required
