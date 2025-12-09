@@ -1,0 +1,286 @@
+admin1,admin2,location_name,latitude,longitude,risk_score,expected_fatalities
+Kiambu,Githunguri,Kiamwangi,-1.1067,36.8667,100.0,628
+Nairobi,Kasarani,Nairobi - Kasarani,-1.2197,36.89,99.8,627
+Nairobi,Roysambu,Nairobi - Roysambu,-1.2067,36.8888,99.8,627
+Kiambu,Kiambu Town,Kiambu,-1.1667,36.8333,98.6,619
+Nairobi,Mathare,Nairobi - Mathare,-1.2614,36.8608,98.4,618
+Nairobi,Ruaraka,Nairobi - Ruaraka,-1.2456,36.8799,98.4,618
+Kiambu,Ruiru,Ruiru,-1.15,36.9667,98.4,618
+Nairobi,Kamukunji,Nairobi - Kamukunji,-1.2759,36.8526,97.9,615
+Nairobi,Starehe,Nairobi - Starehe,-1.2881,36.8236,97.9,615
+Nairobi,Embakasi North,Nairobi - Embakasi North,-1.2517,36.8995,97.9,615
+Nairobi,Embakasi West,Nairobi - Embakasi West,-1.2692,36.8917,97.8,614
+Nairobi,Makadara,Nairobi - Makadara,-1.2966,36.8672,97.6,613
+Kiambu,Kiambaa,Kiambaa,-1.1624,36.7561,97.5,612
+Nairobi,Embakasi Central,Nairobi - Embakasi Central,-1.268,36.9148,97.5,612
+Nairobi,Embakasi East,Nairobi - Embakasi East,-1.2999,36.9333,97.1,610
+Nairobi,Westlands,Nairobi - Westlands,-1.2379,36.7879,97.1,610
+Nairobi,Embakasi South,Nairobi - Embakasi South,-1.3261,36.889,97.1,610
+Nairobi,Dagoretti North,Nairobi - Dagoretti North,-1.2793,36.7789,96.8,608
+Kiambu,Kabete,Gitaru,-1.2333,36.6833,96.7,607
+Nairobi,Kibra,Nairobi - Kibra,-1.3061,36.7857,96.2,604
+Nairobi,Langata,Nairobi - Langata,-1.3508,36.7589,95.9,602
+Kiambu,Kikuyu,Kikuyu,-1.2462,36.6629,95.9,602
+Nairobi,Dagoretti South,Nairobi - Dagoretti South,-1.2828,36.7131,95.7,601
+Kiambu,Gatundu South,Mutomo,-1.0333,36.9167,86.1,541
+Kajiado,Kajiado North,Ngong,-1.3667,36.65,84.4,530
+Kiambu,Limuru,Limuru,-1.1136,36.6421,79.3,498
+Machakos,Athi River,Athi River,-1.45,36.9833,78.8,495
+Kajiado,Kajiado East,Kitengela,-1.4761,36.9614,77.9,489
+Mombasa,Jomvu,Jomvu,-3.985,39.614,37.1,233
+Mombasa,Kisauni,Kisauni,-4.0333,39.6833,36.3,228
+Mombasa,Likoni,Likoni,-4.0839,39.6616,36.1,227
+Mombasa,Mvita,Mombasa,-4.0547,39.6636,36.1,227
+Kilifi,Kaloleni,Kaloleni,-3.8167,39.6269,36.1,227
+Kilifi,Kilifi South,Shanzu,-3.9493,39.7515,35.8,225
+Mombasa,Nyali,Ganjoni,-4.05,39.7,35.8,225
+Mombasa,Changamwe,Changamwe,-4.0166,39.6333,35.7,224
+Kilifi,Rabai,Mazeras,-3.9667,39.55,35.0,220
+Kwale,Matuga,Kwale,-4.1738,39.4521,32.5,204
+Kiambu,Juja,Twiga,-1.05,37.0333,29.0,182
+Vihiga,Vihiga,Vihiga,0.0802,34.7237,27.4,172
+Vihiga,Sabatia,Mululu,0.1544,34.7859,26.3,165
+Vihiga,Hamisi,Kaimosi,0.1266,34.8466,25.8,162
+Nandi,Aldai,Kemeloi,0.1124,34.8916,25.3,159
+Vihiga,Luanda,Emuhaya,0.0333,34.6333,25.2,158
+Kisumu,Nyakach,Urudi,-0.0263,34.557,24.8,156
+Kisumu,Kisumu West,Maseno,-0.0042,34.6095,24.8,156
+Kisumu,Kisumu Central,Kisumu,-0.1,34.75,24.4,153
+Kisumu,Kisumu East,Nyalenda,-0.15,34.75,24.2,152
+Nakuru,Subukia,Kabazi,-0.0833,36.1667,24.0,151
+Turkana,Turkana Central,Lodwar,3.1191,35.5973,23.9,150
+Kisumu,Nyando,Rabour,-0.15,34.8,23.6,148
+Nakuru,Njoro,Njoro,-0.3316,35.9449,23.2,146
+Baringo,Mogotio,Mochongoi,0.0167,36.1,22.9,144
+Nakuru,Nakuru North,Nakuru,-0.2441,36.142,22.1,139
+Kisumu,Seme,Nyatigo,-0.1167,34.4833,22.1,139
+Nakuru,Nakuru West,Barut,-0.3223,36.0529,19.6,123
+Nakuru,Rongai,Kiamunyi,-0.2694,36.0312,19.6,123
+Meru,Tigania West,Kandebene,0.3075,37.6573,19.6,123
+Nakuru,Nakuru East,Bondeni,-0.3072,36.0723,19.6,123
+Nyandarua,Olkalou,Ol Kalou,-0.2709,36.3792,18.8,118
+Uasin Gishu,Ainabkoi,Tendwa,0.4821,35.4458,18.3,115
+Bungoma,Kabuchai,Kanduyi,0.75,34.5833,17.2,108
+Kakamega,Likuyani,Turbo,0.6432,35.049,16.4,103
+Uasin Gishu,Turbo,Turbo,0.6295,35.0483,16.4,103
+Bungoma,Kimilili,Kimilili,0.783,34.7193,16.2,102
+Uasin Gishu,Moiben,Eldoret,0.5167,35.2833,15.9,100
+Uasin Gishu,Kapseret,Simat,0.5422,35.1837,15.9,100
+Nandi,Mosop,Kabiyet,0.4,35.0833,15.9,100
+Mandera,Mandera West,Takaba,3.3553,40.2228,15.3,96
+Bungoma,Kanduyi,Bungoma,0.5635,34.5606,14.5,91
+Kakamega,Mumias West,Mumias,0.3351,34.4864,14.0,88
+Kakamega,Mumias East,Shianda,0.3198,34.576,13.9,87
+Bungoma,Webuye East,Maraka,0.5885,34.7419,13.4,84
+Bungoma,Webuye West,Webuye,0.6167,34.7667,13.4,84
+Kakamega,Navakholo,Esumeyia,0.3188,34.6815,13.2,83
+Muranga,Kigumo,Kigumo,-0.8167,36.9833,12.1,76
+Garissa,Garissa,Garissa,-0.4536,39.6461,11.9,75
+Migori,Kuria East,Nyaitara,-1.2078,34.6393,11.1,70
+Bungoma,Bumula,Kibachenje,0.5202,34.5,11.0,69
+Muranga,Mathioya,Kiriaini,-0.6,36.95,10.8,68
+Migori,Uriri,Uriri,-0.9689,34.5083,10.5,66
+Nyeri,Nyeri South,Othaya,-0.5666,36.95,10.5,66
+Garissa,Hulugho,Boni Forest,-1.5394,41.3314,10.5,66
+Meru,Buuri,Ruiri,0.1481,37.6271,10.4,65
+West Pokot,West Pokot,Makutano,1.2577,35.0927,10.4,65
+Muranga,Kandara,Nguruaini,-0.88,37.07,10.2,64
+Migori,Suna East,Kakrao,-1.0333,34.4833,10.0,63
+Nyeri,Mathira East,Karatina,-0.4817,37.1251,10.0,63
+Muranga,Kangema,Nyangiti,-0.6833,37.05,10.0,63
+Nyeri,Mukurweini,Mukurwe-ini,-0.5609,37.0476,10.0,63
+Bungoma,Cheptais,Cheptais,0.8099,34.4564,10.0,63
+Trans Nzoia,Kiminini,Kiminini,0.8931,34.9241,9.9,62
+Trans Nzoia,Saboti,Kitale,1.0167,35.0,9.9,62
+Baringo,Baringo Central,Kabarnet,0.4919,35.743,9.7,61
+Muranga,Muranga South,Kiamutugu,-0.8167,37.1,9.7,61
+Turkana,Turkana North,Loarengak,4.274,35.8994,9.7,61
+Migori,Kuria West,Isebania,-1.2167,34.4667,9.6,60
+Migori,Suna West,Migori,-1.0667,34.4667,9.6,60
+Samburu,Samburu Central,Lkuroto,1.0745,36.7021,9.4,59
+Muranga,Gatanga,Gatanga,-0.9333,36.9667,9.4,59
+Kisii,Nyaribari Masaba,Keroka,-0.7833,34.95,9.4,59
+Migori,Awendo,Awendo,-0.9,34.5333,9.4,59
+Muranga,Kiharu,Muranga,-0.7166,37.15,9.2,58
+Kirinyaga,Kirinyaga Central,Kerugoya,-0.4989,37.2803,9.2,58
+Kisii,Bomachoge Chache,Ogembo,-0.8,34.7167,9.2,58
+Kirinyaga,Kirinyaga South,Kutus,-0.5753,37.3269,9.1,57
+Kirinyaga,Kirinyaga West,Kagio,-0.6166,37.25,9.1,57
+Kiambu,Thika Town,Thika,-1.05,37.0833,9.1,57
+Kisii,Bobasi,Bobasi,-0.8333,34.8,9.1,57
+Kisii,Bomachoge Borabu,Kenyenya,-0.8976,34.7434,8.9,56
+Kirinyaga,Kirinyaga North,Kangure,-0.6153,37.3174,8.9,56
+Bungoma,Mt Elgon,Kapsokwony,0.8522,34.7019,8.8,55
+Elgeyo Marakwet,Keiyo South,Kaptarkok,0.44,35.56,8.8,55
+Baringo,Marigat,Chemoe,0.3167,35.8833,8.4,53
+Meru,Tigania East,Kiguchwa,0.15,37.85,8.4,53
+Kisii,Kitutu Chache South,Raganga,-0.6052,34.71,8.4,53
+Trans Nzoia,Cherangany,Cherangani,0.9833,35.2167,8.3,52
+Nakuru,Kuresoi North,Kuresoi,-0.3012,35.5321,8.3,52
+Kakamega,Butere,Butere,0.2064,34.4935,8.1,51
+Kisii,Nyaribari Chache,Keumbu,-0.7333,34.85,8.0,50
+Kisii,Bonchari,Nyamokenye,-0.6684,34.7361,7.6,48
+Kisii,Kitutu Chache North,Marani,-0.5812,34.8003,7.5,47
+Nyamira,Manga,Kitutu Chache,-0.6333,34.8333,7.5,47
+Narok,Transmara East,Pimbinyiet,-0.9543,35.0452,7.3,46
+Kiambu,Gatundu North,Makohokoho,-0.9118,36.7887,7.3,46
+Baringo,Tiaty,Tiati,1.2972,35.9336,7.3,46
+Migori,Rongo,Rongo,-0.7667,34.6,7.3,46
+Narok,Transmara West,Kilgoris,-1.0077,34.8806,7.2,45
+Busia,Teso North,Kakurikit,0.7167,34.35,7.0,44
+Bungoma,Tongaren,Ndalu,0.8638,34.9863,6.8,43
+Elgeyo Marakwet,Marakwet East,Endo,1.2667,35.6167,6.8,43
+Kisii,South Mugirango,Ikoba,-0.7666,34.6833,6.8,43
+Uasin Gishu,Soy,Moi's Bridge,0.877,35.1206,6.7,42
+Kericho,Kipkelion East,Londiani,-0.1667,35.6,6.7,42
+Homa Bay,Kasipul,Oyugis,-0.509,34.7358,6.7,42
+Trans Nzoia,Kwanza,Kwanza,1.1684,34.9926,6.7,42
+Kiambu,Lari,Lari,-1.0167,36.6333,6.7,42
+Kakamega,Khwisero,Khwisero,0.1672,34.5996,6.7,42
+Kakamega,Lugari,Lugari,0.6475,34.8775,6.5,41
+Meru,Igembe Central,Muringene,0.2857,37.9213,6.5,41
+Mandera,Banissa,Banissa,3.9439,40.3445,6.5,41
+Nyamira,Borabu,Borabu,-0.75,35.0,6.5,41
+Nakuru,Kuresoi South,Keringet,-0.4666,35.6833,6.5,41
+Elgeyo Marakwet,Marakwet West,Kapsowar,0.9805,35.5575,6.4,40
+Laikipia,Laikipia North,Mukogodo,0.4833,36.9333,6.4,40
+Meru,Igembe South,Maua,0.2321,37.9405,6.4,40
+Kakamega,Ikolomani,Shamusinjiri,0.2244,34.7131,6.4,40
+Marsabit,Saku,Marsabit,2.333,37.983,6.2,39
+Kwale,Kinango,Mariakani,-3.8667,39.4667,5.9,37
+Kakamega,Lurambi,Kakamega,0.2833,34.7384,5.9,37
+West Pokot,Pokot Central,Chesogon,1.3048,35.6245,5.9,37
+Tharaka-Nithi,Tharaka North,Ntoroni,0.0326,37.9821,5.9,37
+Kakamega,Matungu,Ogalo,0.3873,34.4023,5.7,36
+Kakamega,Shinyalu,Shinyalu,0.2239,34.808,5.6,35
+Meru,Imenti North,Meru,0.05,37.65,5.6,35
+Kericho,Ainamoi,Kericho,-0.3677,35.2831,5.4,34
+Nyeri,Tetu,Kiawaithanji,-0.4875,36.984,5.4,34
+Nyamira,Nyamira,Nyangoso,-0.5539,34.9393,5.4,34
+Meru,Igembe North,Mutuati,0.3826,37.9855,5.3,33
+Nyamira,Nyamira North,Kioge,-0.5167,34.95,5.1,32
+Lamu,Lamu West,Pandanguo,-2.2347,40.4778,5.1,32
+Tharaka-Nithi,Chuka,Mubukuro,-0.3295,37.621,5.1,32
+Nyeri,Nyeri Central,Nyeri,-0.4167,36.95,4.9,31
+Nakuru,Molo,Elburgon,-0.3,35.8167,4.9,31
+Kirinyaga,Kirinyaga East,Thumaita,-0.4466,37.366,4.9,31
+Bungoma,Sirisia,Komiriai,0.78,34.37,4.8,30
+Busia,Butula,Marach,0.3267,34.3156,4.8,30
+Samburu,Samburu North,Suiyan,1.7045,36.7254,4.6,29
+Embu,Mbeere South,Kiamuringa,-0.5698,37.5318,4.6,29
+Embu,Manyatta,Kiangima,-0.4871,37.4699,4.6,29
+Nyeri,Kieni West,Aberdare Forest,-0.3666,36.8333,4.5,28
+Siaya,Ugenya,Sega,0.2558,34.2258,4.1,26
+Busia,Nambale,Nambale,0.4459,34.2519,4.1,26
+Trans Nzoia,Endebess,Chepchoina,1.1833,34.8,4.1,26
+Machakos,Matungulu,Tala,-1.2667,37.3167,4.1,26
+Machakos,Kathiani,Kalunga,-1.451,37.3129,4.0,25
+Machakos,Kangundo,Kangundo,-1.3024,37.3361,4.0,25
+Embu,Runyenjes,Runyenjes,-0.4167,37.5667,4.0,25
+Embu,Mbeere North,Siakago,-0.5833,37.6333,4.0,25
+Kakamega,Malava,Shamberere,0.3773,34.8422,3.8,24
+Siaya,Bondo,Bondo,0.2386,34.2694,3.7,23
+Machakos,Mwala,Nyaanyaa,-1.2667,37.4167,3.7,23
+Homa Bay,Rangwe,God Bondo,-0.4944,34.5167,3.7,23
+Siaya,Ugunja,Ugunja,0.1825,34.2956,3.5,22
+Busia,Samia,Funyula,0.2813,34.1175,3.5,22
+West Pokot,Pokot South,Ptarkong,1.3233,35.3805,3.5,22
+Kericho,Kipkelion West,Kabirer,-0.1198,35.4005,3.5,22
+Homa Bay,Karachuonyo,Kanyandiga,-0.4137,34.6604,3.5,22
+Machakos,Yatta,Matuu,-1.146,37.5475,3.3,21
+Busia,Matayos,Bungengi,0.4512,34.1572,3.3,21
+Kisumu,Muhoroni,Muhoroni,-0.15,35.2,3.3,21
+Kilifi,Kilifi North,Kilifi,-3.633,39.85,3.2,20
+West Pokot,Pokot North,Turkwel River,2.3,35.2333,3.2,20
+Tharaka-Nithi,Igambang'ombe,Mariani,-0.3261,37.7027,3.0,19
+Bomet,Sotik,Kaplong,-0.6833,35.1333,3.0,19
+Kericho,Bureti,Cheplanget,-0.653,35.1182,2.9,18
+Tharaka-Nithi,Muthambi,Ruria,-0.2785,37.6781,2.9,18
+Elgeyo Marakwet,Keiyo North,Iten,0.6702,35.5077,2.9,18
+Siaya,Alego Usonga,Siaya,0.06,34.2861,2.9,18
+Machakos,Machakos,Machakos,-1.5167,37.2667,2.9,18
+Kilifi,Malindi,Malindi,-3.22,40.12,2.9,18
+Turkana,Turkana South,Kainuk,1.7745,35.506,2.9,18
+Turkana,Turkana East,Lokori,1.9516,36.0358,2.9,18
+Tana River,Garsen,Garsen,-2.2697,40.12,2.7,17
+Nandi,Chesumei,Kipsamoite,0.3232,34.9988,2.7,17
+Turkana,Kibish,Kibish,4.9231,35.2744,2.7,17
+Baringo,Baringo North,Kosile,0.7507,35.9401,2.7,17
+Makueni,Kibwezi West,Mikululo,-2.266,37.7938,2.5,16
+Homa Bay,Ndhiwa,Nyawita,-0.6833,34.4167,2.5,16
+Meru,Imenti Central,South Imenti,-0.0667,37.7,2.4,15
+Laikipia,Laikipia West,Mahianyu,0.0889,36.4238,2.4,15
+Mandera,Mandera North,Jabibar,3.8363,41.19,2.4,15
+Bomet,Konoin,Kapsinendet,-0.5212,35.2384,2.4,15
+Busia,Teso South,Ochude,0.5333,34.25,2.4,15
+Siaya,Gem,Kambare,-0.0213,34.4505,2.2,14
+Kwale,Msambweni,Msambweni,-4.4619,39.4827,2.2,14
+Kericho,Belgut,Tagabi,-0.43,35.2158,2.2,14
+Garissa,Dadaab,Dadaab,0.0524,40.3086,2.1,13
+Garissa,Fafi,Hagadera,0.0095,40.3756,2.1,13
+Marsabit,Laisamis,Laisamis,1.6,37.8,1.9,12
+Nyandarua,Ndaragwa,Ndaragwa,-0.0559,36.5289,1.9,12
+Nyandarua,Kinangop,Nyandarua,-0.55,36.6167,1.8,11
+Turkana,Loima,Nakukulas,2.7777,35.4001,1.8,11
+Mandera,Mandera East,Arabia,3.5254,41.4991,1.8,11
+Nandi,Nandi East,Nandi Hills,0.1066,35.1838,1.8,11
+Meru,Imenti South,Nkubu,-0.0652,37.6652,1.8,11
+Turkana,Turkana West,Kakuma Refugee Camp,3.7524,34.8301,1.4,9
+Nakuru,Naivasha,Naivasha,-0.7202,36.4285,1.4,9
+Kilifi,Ganze,Ganze,-3.543,39.6927,1.4,9
+Taita Taveta,Mwatate,Mwatate,-3.4995,38.3762,1.3,8
+Garissa,Ijara,Masalani,-1.6947,40.1694,1.3,8
+Tana River,Galole,Hola,-1.5036,40.0333,1.3,8
+Nyeri,Kieni East,Naro Moru,-0.17,37.02,1.3,8
+Kitui,Kitui Central,Kitui,-1.3667,38.0167,1.1,7
+Homa Bay,Suba,Rangwe,-0.5667,34.1667,1.0,6
+Isiolo,Isiolo,Oldonyiro,0.6251,36.9763,1.0,6
+Makueni,Makueni,Nzeeni,-1.9417,37.4943,1.0,6
+Siaya,Rarieda,Ruma,-0.2144,34.3359,1.0,6
+Narok,Narok West,Esoit,-1.7566,35.4526,1.0,6
+Narok,Narok East,Ntulelei,-1.0959,36.0857,1.0,6
+Taita Taveta,Wundanyi,Kishushe,-3.2519,38.2807,1.0,6
+Tharaka-Nithi,Tharaka South,Kathwana,-0.1282,37.9358,1.0,6
+Nandi,Emgwen,Kipture,0.1799,35.1475,0.8,5
+Garissa,Lagdera,Benane,0.5,38.6667,0.8,5
+Homa Bay,Mbita,Mbita,-0.4166,34.2,0.8,5
+Nakuru,Gilgil,Karati,-0.6402,36.3506,0.8,5
+Nyandarua,Kipipiri,Miharati,-0.3982,36.4905,0.8,5
+Wajir,Wajir North,El Das,2.5333,39.55,0.6,4
+Makueni,Mbooni,Muthwani,-1.5999,37.46,0.6,4
+Homa Bay,Homa Bay Town,Rusinga Islands,-0.4076,34.144,0.6,4
+Kajiado,Loitokitok,Ongata Rongai,-2.75,37.3833,0.6,4
+Kitui,Kitui South,Mutha,-1.7951,38.4278,0.6,4
+Isiolo,Garbatulla,Medina,0.5904,38.8313,0.6,4
+Kitui,Kitui East,Kasangu,-1.6404,38.4313,0.6,4
+Samburu,Samburu East,Kalepo Camp,1.381,37.3193,0.5,3
+Taita Taveta,Voi,Voi,-3.3961,38.5561,0.5,3
+Narok,Narok North,Sakutiek,-0.8456,36.14,0.5,3
+Taita Taveta,Taveta,Taveta,-3.3988,37.6834,0.5,3
+Wajir,Wajir East,Konton,2.0053,40.9274,0.5,3
+Mandera,Lafey,Lafey,3.1508,41.1862,0.5,3
+Makueni,Kilome,Mangala,-1.9167,37.3333,0.3,2
+Baringo,Koibatek,Eldama Ravine,0.052,35.731,0.3,2
+Tana River,Bura,Bangale,-0.5123,38.83,0.3,2
+Laikipia,Laikipia East,Nanyuki,0.0167,37.0667,0.3,2
+Uasin Gishu,Kesses,Timboroa,0.05,35.5167,0.3,2
+Busia,Bunyala,Port Bunyala,0.0939,33.9756,0.3,2
+Kitui,Mwingi North,Mandongoi,-0.5197,38.5823,0.3,2
+Makueni,Kaiti,Muiu,-1.7044,37.5745,0.2,1
+Lamu,Lamu East,Tundwa,-2.0788,41.1148,0.2,1
+Bomet,Bomet East,Bomet,-0.7833,35.35,0.2,1
+Bomet,Bomet Central,Ndarawetta,-0.6868,35.3801,0.2,1
+Isiolo,Merti,Yamicha,1.905,38.8257,0.2,1
+Kajiado,Kajiado Central,Kajiado,-1.85,36.7833,0.2,1
+Kajiado,Kajiado West,Magadi,-1.9,36.2833,0.2,1
+Kitui,Mwingi West,Kanyaa,-1.0201,37.9245,0.2,1
+Kitui,Mwingi Central Sub- County,Mwingi,-0.9333,38.0667,0.2,1
+Bomet,Chepalungu,Chebunyo,-0.9667,35.1833,0.0,0
+Migori,Nyatike,Muhuru Bay,-0.9987,34.0964,0.0,0
+Narok,Narok South,Maji Moto,-1.3379,35.7094,0.0,0
+Kilifi,Magarini,Marereni,-2.7561,39.9944,0.0,0
+Machakos,Masinga,Kavwea,-1.0556,37.6253,0.0,0
+Marsabit,North Horr,Maikona,2.9333,37.6333,0.0,0
+Marsabit,Moyale,Sololo,3.55,38.65,0.0,0
+Mandera,Mandera South,El Ramu,2.332,40.889,0.0,0
+Wajir,Wajir South,Habaswein,1.0104,39.4921,0.0,0
